@@ -3,7 +3,7 @@
 Fine-tuned FinBERT model that predicts stock price movement (spike/decline) from news headlines.
 
 ## 🚀 Live Demo
-**Try it here:** [Stock News Predictor](https://a4be82721aa19208bb.gradio.live)
+**Try it here:** [Stock News Predictor](https://63464c07429cdd846a.gradio.live)
 
 Type any news headline → get instant spike/decline prediction!
 
