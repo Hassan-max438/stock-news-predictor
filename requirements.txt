@@ -1,0 +1,7 @@
+massive
+pandas
+transformers
+torch
+scikit-learn
+gradio
+python-dotenv
