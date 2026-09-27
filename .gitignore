@@ -1,0 +1,10 @@
+.env
+config.py
+secrets.txt
+*.safetensors
+*.bin
+*.pt
+*.csv
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
